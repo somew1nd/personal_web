@@ -1,9 +1,6 @@
 spring:
   data:
-    mongodb:
-      username: somewind
-      password: 2p5gcTPR5bYXtAR7
-      uri: mongodb+srv://somewind:2p5gcTPR5bYXtAR7@lab6.5vnst2q.mongodb.net/sensor
+
 
 server:
   port: 80
